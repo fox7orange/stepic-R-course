@@ -6,7 +6,7 @@ We have two csv files at start  and we want to predict whether a user will gradu
 We will assume that user has graduated the course if he get at list 40 points.
 
 # Data describtions
-## events_train.csv
+## [events_train.csv](https://stepik.org/media/attachments/course/4852/event_data_train.zip)
 It contains data about acts users perform
 
 * step_id - numeric step id
@@ -18,7 +18,7 @@ It contains data about acts users perform
   * started_attempt - it used to be that user had to press the button "start attempt" to have an ability to submit a solution for practical step
   * passed - successfuly solved practical step 
 
-## submissions_train.csv
+## [submissions_train.csv](https://stepik.org/media/attachments/course/4852/submissions_data_train.zip)
 It contains data about times and statuses of user's submissions
 
 * step_id - numeric step id
