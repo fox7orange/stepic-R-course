@@ -15,6 +15,7 @@ events_train.csv - data about acts users perform
   timestamp - unixdate time of an event occurence
   
   action - event type:
+  
     * discovered
     * viewed
     * started_attempt - it used to be that user had to press the button "start attempt" to have an ability to submit a solution for practical step
