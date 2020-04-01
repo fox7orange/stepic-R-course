@@ -6,7 +6,8 @@ We have two csv files at start  and we want to predict whether a user will gradu
 We will assume that user has graduated the course if he get at list 40 points.
 
 # Data describtions
-## events_train.csv - data about acts users perform
+## events_train.csv
+It contains data about acts users perform
 
 * step_id - numeric step id
 * user_id - numeric anonymous user id
@@ -17,7 +18,8 @@ We will assume that user has graduated the course if he get at list 40 points.
   * started_attempt - it used to be that user had to press the button "start attempt" to have an ability to submit a solution for practical step
   * passed - successfuly solved practical step 
 
-## submissions_train.csv - data about times and statuses of user's submissions
+## submissions_train.csv
+It contains data about times and statuses of user's submissions
 
 * step_id - numeric step id
 * user_id - numeric anonymous user id
