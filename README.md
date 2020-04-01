@@ -1,7 +1,9 @@
-# stepic-R-course
+# Project describtion
 Data analysis of users behavior on "Data analysis in R" course on stepic.org platform.
 
 We have two csv files at start  and we want to predict whether a user will graduate the course or not based on the same information but only about first two days after he enrolled. 
+
+We will assume that user has graduated the course if he get at list 40 points.
 
 # Data describtions
 events_train.csv - data about acts users perform
