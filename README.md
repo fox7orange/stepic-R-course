@@ -20,6 +20,9 @@ submissions_train.csv - data about times and statuses of user's submissions
   timestamp - unixdate time of an event occurence
   submission_status - sumission status
 
+# Files
+events_train.csv
+submissions_train.csv
 stepic.ipynb - notebook with solution
 sumissions_test.csv - test data that contains information about only first 2 days of activity for each user
 events_test.csv
